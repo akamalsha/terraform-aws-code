@@ -1,6 +1,6 @@
 # terraform-aws-code
 
-Title: Building an AWS Centralized NAT Gateway Solution with Terraform
+Building an AWS Centralized NAT Gateway Solution with Terraform
 
 Introduction:
 In the realm of cloud infrastructure, optimizing network traffic and ensuring secure access to resources are paramount. One essential component for achieving this in AWS (Amazon Web Services) environments is a NAT (Network Address Translation) Gateway. In this guide, we'll walk you through building a centralized NAT Gateway solution from scratch using Terraform, a popular infrastructure as code tool.
